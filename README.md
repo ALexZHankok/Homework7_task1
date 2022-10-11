@@ -1,1 +1,4 @@
-# Homework7_task1
+# Homework7
+
+## Task 1 and Task 2
+
